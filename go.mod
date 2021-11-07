@@ -1,3 +1,3 @@
-module github.com/ulratin/go_micro
+module github.com/ultratin/go_micro
 
 go 1.17
